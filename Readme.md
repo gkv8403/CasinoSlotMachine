@@ -98,20 +98,6 @@ Assets/
 
 ├── Audio/
 
-│ ├── SFX/
-
-│ │ ├── lever_pull.wav
-
-│ │ ├── spinning.wav
-
-│ │ ├── win.wav
-
-│ │ └── lose.wav
-
-│ └── Music/
-
-│ └── background_music.wav
-
 │
 
 ├── Resources/
