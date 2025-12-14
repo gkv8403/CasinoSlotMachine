@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae67f26c59d93e64ba1d2cf286f4e084, type: 3}
+  m_Name: SlotConfig
+  m_EditorClassIdentifier: 
+  startingWallet: 100
+  minBet: 10
+  maxBet: 50
+  betIncrement: 10
+  spinSpeed: 0.1
+  reel1StopDelay: 1.5
+  reel2StopDelay: 2.5
+  reel3StopDelay: 3.5
+  leverPullDuration: 0.5
+  winPopupDuration: 2
+  shakeDuration: 0.5
+  shakeStrength: 10
+  symbols:
+  - {fileID: 11400000, guid: efb385bbffbdf8345afab2b950800f21, type: 2}
+  - {fileID: 11400000, guid: f127a25265d5d274da963037b903f690, type: 2}
+  - {fileID: 11400000, guid: df4edfeef24483340aa5ae6255b11b78, type: 2}
+  - {fileID: 11400000, guid: 4d3316ecfa240ee439d7e878053199f2, type: 2}
